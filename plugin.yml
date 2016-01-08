@@ -1,0 +1,10 @@
+name: CreeperPogo
+main: com.tomthecarrot.creeperpogo.Main
+version: 1.0
+description: >
+             Creeper Pogo Sticks.
+commands:
+  pogo:
+    description: Create a Creeper Pogo Stick.
+  creeperleg:
+    description: Create a Creeper Leg for crafting a Creeper Pogo Stick.
